@@ -1,0 +1,27 @@
+1.create a folder
+mkdir projectname
+it created an empty project to the current direct.
+
+
+2.cd=>change directory
+cd 
+
+3.git init=>creates an empty repo
+
+4. 
+commit envrionment
+staging/stash environment
+
+git add index.html
+git add .
+git add arca.txt
+
+5.git commit -m "first commit "
+git commit -m "added boilerplate code"
+git commit -m "added header component"
+git commit -m "made changes to header component"
+git commit -m "made 2 function inside header component"
+
+git log
+
+git push -u origin main
